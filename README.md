@@ -1,5 +1,5 @@
 # 💫 About Me:
-With applied Public Health background, I'm interested in the application of <br>epidemiological methods using Real world Evidence data to health research that informs health policy and practice
+With applied Public Health background, I'm interested in the application of epidemiological methods using Real World Evidence data to health research that informs health policy and practice
 
 
 ## 🌐 Socials:
