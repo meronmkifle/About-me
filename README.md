@@ -1,5 +1,5 @@
 # 💫 About Me:
-With applied Public Health background, I'm interested in the application of using big data in epidemiological methods to health research that informs health policy and practice
+With applied Public Health background, I'm interested in the application of big data in epidemiological research that informs health policy & practice 
 
 
 ## 🌐 Socials:
