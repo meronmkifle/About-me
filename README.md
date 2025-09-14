@@ -1,4 +1,4 @@
-# About Me  :) 
+# About Me  
 With a background in Public Health and Business Analytics, I’m passionate about using real-world data to generate insights that drive better health and business decisions.  
 
 ## 🌐 Socials:
@@ -26,7 +26,6 @@ With a background in Public Health and Business Analytics, I’m passionate abou
 
 ---
 
-## Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meronmkifle&theme=linkedin&hide_border=false&include_all_commits=false&count_private=false)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meronmkifle&theme=linkedin&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meronmkifle&theme=linkedin&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
