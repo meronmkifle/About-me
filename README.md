@@ -1,5 +1,5 @@
 # 💫 About Me:
-With applied Public Health background, I'm interested in the application of big data in research that informs health policy & practice 
+With a background in Public Health and Business Analytics, I’m passionate about using real-world data to generate insights that drive better health and business decisions.  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meronmkifle) 
