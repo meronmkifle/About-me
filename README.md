@@ -53,11 +53,3 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
 </p>
 
 ---
-
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meronmkifle&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meronmkifle&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
----
