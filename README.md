@@ -8,13 +8,11 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
   <a href="https://linkedin.com/in/meronmkifle">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
   </a>
-</p>
-<p>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/MeronMKifle">
     <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="X"/>
   </a>
 </p>
-
 ---
 
 ## 💻 Tech Stack  
