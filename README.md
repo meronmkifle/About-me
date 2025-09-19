@@ -1,4 +1,4 @@
-<!-- Banner (optional) -->
+<!-- Header Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00CFFF&height=150&section=header&text=Meron%20Kifle&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </p>
@@ -24,22 +24,27 @@ With a background in **Public Health** and **Business Analytics**, I’m passion
 
 ### Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=python,r,cs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
 </p>
 
 ### Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
 </p>
 
 ### Cloud Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/>
 </p>
 
 ### Data Visualization  
 <p>
-  <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" />
 </p>
 
 ---
