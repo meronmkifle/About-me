@@ -3,7 +3,7 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
 
 ---
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/meronmkifle">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
@@ -13,6 +13,7 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
     <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="X"/>
   </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack  
