@@ -1,8 +1,3 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00CFFF&height=150&section=header&text=Meron%20Kifle&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
-</p>
-
 # 👋 About Me  
 With a background in **Public Health** and **Business Analytics**, I'm passionate about turning real-world data into actionable insights that drive better health and business decisions.  
 
@@ -69,8 +64,3 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
 </p>
 
 ---
-
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00CFFF&height=120&section=footer"/>
-</p>
