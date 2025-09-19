@@ -4,7 +4,7 @@
 </p>
 
 # 👋 About Me  
-With a background in **Public Health** and **Business Analytics**, I’m passionate about turning real-world data into actionable insights that drive better health and business decisions.  
+With a background in **Public Health** and **Business Analytics**, I'm passionate about turning real-world data into actionable insights that drive better health and business decisions.  
 
 ---
 
@@ -25,7 +25,6 @@ With a background in **Public Health** and **Business Analytics**, I’m passion
 ---
 
 ## 💻 Tech Stack  
-
 ### Programming  
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python"/> &nbsp; Python
@@ -67,9 +66,6 @@ With a background in **Public Health** and **Business Analytics**, I’m passion
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=meronmkifle&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meronmkifle&theme=tokyonight&hide_border=true" height="150" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meronmkifle&layout=compact&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
