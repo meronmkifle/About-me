@@ -1,32 +1,61 @@
-# About Me  
-With a background in Public Health and Business Analytics, I’m passionate about using real-world data to generate insights that drive better health and business decisions.  
+<!-- Banner (optional) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00CFFF&height=150&section=header&text=Meron%20Kifle&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meronmkifle)  
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://twitter.com/MeronMKifle)
-
-# Tech Stack:
-
-### Programming
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-
-### Cloud Platforms
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  
-
-### Data Viz
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+# 👋 About Me  
+With a background in **Public Health** and **Business Analytics**, I’m passionate about turning real-world data into actionable insights that drive better health and business decisions.  
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meronmkifle&theme=linkedin&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meronmkifle&theme=linkedin&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meronmkifle&theme=linkedin&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/meronmkifle">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/MeronMKifle">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
+  </a>
+</p>
 
+---
+
+## 💻 Tech Stack  
+
+### Programming  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,r,cs" height="40"/>
+</p>
+
+### Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="40"/>
+</p>
+
+### Cloud Platforms  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp" height="40"/>
+</p>
+
+### Data Visualization  
+<p>
+  <img src="https://skillicons.dev/icons?i=powerbi,tableau" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meronmkifle&theme=tokyonight&show_icons=true&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meronmkifle&theme=tokyonight&hide_border=true" height="150" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meronmkifle&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+---
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00CFFF&height=120&section=footer"/>
+</p>
