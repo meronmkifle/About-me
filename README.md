@@ -3,17 +3,15 @@ With a background in **Public Health** and **Business Analytics**, I'm passionat
 
 ---
 
-## 🌐 Connect With Me
+🌐 Connect With Me
 <p>
   <a href="https://linkedin.com/in/meronmkifle">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
-    &nbsp; LinkedIn
   </a>
 </p>
 <p>
   <a href="https://twitter.com/MeronMKifle">
-    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="Twitter"/>
-    &nbsp; Twitter
+    <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="X"/>
   </a>
 </p>
 
