@@ -11,10 +11,13 @@ With a background in **Public Health** and **Business Analytics**, I’m passion
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/meronmkifle">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/><br>
+    <sub>LinkedIn</sub>
   </a>
+  &nbsp;&nbsp;
   <a href="https://twitter.com/MeronMKifle">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/><br>
+    <sub>Twitter</sub>
   </a>
 </p>
 
@@ -24,27 +27,41 @@ With a background in **Public Health** and **Business Analytics**, I’m passion
 
 ### Programming  
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/><br>
+  <sub>Python</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=r" height="40" alt="R"/><br>
+  <sub>R</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#"/><br>
+  <sub>C#</sub>
 </p>
 
 ### Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL"/><br>
+  <sub>MySQL</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="MongoDB"/><br>
+  <sub>MongoDB</sub>
 </p>
 
 ### Cloud Platforms  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/>
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"/><br>
+  <sub>AWS</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="GCP"/><br>
+  <sub>Google Cloud</sub>
 </p>
 
 ### Data Visualization  
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="Power BI"/><br>
+  <sub>Power BI</sub>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="Tableau"/><br>
+  <sub>Tableau</sub>
 </p>
 
 ---
