@@ -3,13 +3,12 @@ With a background in **Public Health** and **Data Science**, I'm passionate abou
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Socials
 <p>
   <a href="https://linkedin.com/in/meronmkifle">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/MeronMKifle">
+ <a href="https://twitter.com/MeronMKifle">
     <img src="https://skillicons.dev/icons?i=twitter" height="30" alt="X"/>
   </a>
 </p>
